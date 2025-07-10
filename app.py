@@ -14,13 +14,10 @@ chatbot = gr.ChatInterface(
           assistants have revolutionized customer service by providing instant, around-the-clock responses to user inquiries
          , which has greatly improved user satisfaction and reduced operational costs for businesses. Furthermore, AI-driven
           algorithms are now used extensively in the finance sector to detect fraudulent transactions, assess credit risk,
-          and automate trading strategies. Education has also been influenced by AI, with intelligent tutoring systems offering
-          personalized learning experiences tailored to individual students' strengths and weaknesses. While these innovations
-          promise numerous benefits, they also raise important ethical concerns, including data privacy, algorithmic bias, and
-          the potential for large-scale job displacement. As society continues to integrate AI into more aspects of daily life,
-          it is crucial for policymakers, developers, and communities to collaborate in establishing frameworks that ensure these
-          powerful technologies are used responsibly and for the greater good.
+          and automate trading strategies.
         """],
+        ["""شهدت تكنولوجيا الذكاء الاصطناعي تطورًا سريعًا في السنوات الأخيرة، مما ساهم في تغيير ملامح العديد من الصناعات والقطاعات حول العالم. في مجال الرعاية الصحية، تم استخدام تقنيات الذكاء الاصطناعي لتحسين دقة تشخيص الأمراض ومساعدة الأطباء في اتخاذ قرارات علاجية أفضل، كما ساهمت الروبوتات الجراحية في تقليل الأخطاء الطبية وزيادة معدلات النجاح. وفي قطاع التعليم، ساعدت الأنظمة الذكية في تقديم تجارب تعلم مخصصة لكل طالب وفقًا لقدراته واحتياجاته، مما زاد من فاعلية العملية التعليمية. أما في عالم الأعمال، فقد ساعدت حلول الذكاء الاصطناعي في تحسين خدمة العملاء من خلال توفير روبوتات محادثة ذكية قادرة على الرد على الاستفسارات بسرعة وفعالية، وتقليل التكاليف التشغيلية. وعلى الرغم من كل هذه الفوائد، تثار مخاوف حول تأثير الذكاء الاصطناعي على سوق العمل وإمكانية فقدان بعض الوظائف التقليدية، بالإضافة إلى التحديات الأخلاقية المرتبطة باستخدام هذه التقنيات بشكل عادل وآمن.
+        """]
     ],
     theme=gr.themes.Soft(),
     fill_width=False,
